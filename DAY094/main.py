@@ -4,7 +4,7 @@ pygame.init()
 #建立視窗大小寬度x長度 300 x 400
 screen = pygame.display.set_mode((300,400))
 #建立標題
-pygame.display.set_caption(('Space Invanders'))
+pygame.display.set_caption(('Space Invaders'))
 
 BLACK = (0,0,0) # 黑色
 WHITE = (255,255,255) #白色
